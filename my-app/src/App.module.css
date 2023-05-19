@@ -10,27 +10,15 @@
 	padding: 10px;
 }
 
-.numbers {
+.buttons {
 	display: flex;
 	flex-wrap: wrap;
 	max-width: 350px;
 	justify-content: space-evenly;
 }
 
-.functions {
-	display: flex;
-	justify-content: space-evenly;
-	width: 100%;
-}
-
-.plusAndMinus {
-	width: 33%;
-	display: flex;
-	justify-content: space-evenly;
-}
-
-.plusAndMinus button {
-	flex-grow: 1;
+.deleteAndResult {
+	width: 12.5%;
 }
 
 button {
